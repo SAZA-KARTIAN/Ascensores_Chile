@@ -30,6 +30,7 @@ Este proyecto analiza el rubro del **transporte vertical en Chile**, con foco en
 - **MINVU**: Registro nacional de equipos certificados (2020–2025).
 - **Servicio Nacional de Aduanas**: Importaciones de ascensores por marca y empresa (2016–2024).
 - **Permisos de Edificación**: Por comuna y tipo (2012–2024).
+- **Chile Valora**: Perfiles relacionados a ascensores en cuanto mantenimiento, instalación y certificación.
 
 ## 🛠️ Procesamiento de Datos
 
